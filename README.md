@@ -2,6 +2,12 @@
 
 A comprehensive machine learning project for predicting credit default risk using Home Credit data. This project implements a complete end-to-end ML pipeline including exploratory data analysis, feature engineering, model development, and evaluation.
 
+## Members
+1. Sebin Francis Kannampuzha
+2. Harshit Agarwal
+3. Shreya Shrivastava
+4. Tushar Srivastava
+   
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Project Structure](#project-structure)
@@ -36,7 +42,7 @@ Credit_Default_Risk/
 
 ## 📊 Dataset
 
-The project uses the **Home Credit Default Risk** dataset, which includes:
+The project uses the [**Home Credit Default Risk (https://www.kaggle.com/competitions/home-credit-default-risk/data)**](https://www.kaggle.com/competitions/home-credit-default-risk/data) dataset, which includes:
 
 - **Application data**: Client information at the time of application
 - **Bureau data**: Credit history from other financial institutions
